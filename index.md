@@ -1,7 +1,12 @@
 ---
 title: Home
-layout: home
+layout: default
 ---
+
+#Welcome students and teachers,
+
+This is a test website. 
+Here you find the material for [AI and Arts&Humanities](AI_arts.md)
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 

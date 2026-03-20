@@ -14,4 +14,4 @@ Let's see if we can also add an image [Course banner]({{ '/relativity.jpg' | rel
 
 ![Relativity]({{ '/relativity.jpg' | relative_url }})
 
-Navigate to [Lesson 1](lessons/lesson1.md)
+Navigate to [Lesson 1](/lessons/lesson1.md)

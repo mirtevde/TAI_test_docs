@@ -10,5 +10,5 @@ has_children: true
 ## this is the start of the lesson
 hello world
 
-What follows is [Lesson 1](lesson1.md)
-Then follows [Lesson 2](lesson2.md)
+What follows is [Lesson 1 Getting Started]({{ 'lessons/lesson1.md' | relative_url }})
+

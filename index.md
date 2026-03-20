@@ -11,4 +11,7 @@ Here you find the material for [AI and Arts&Humanities](ai_arts.md)
 
 Let's see if we can also add an image [Course banner]({{ '/relativity.jpg' | relative_url }}){: width="800" }
 
+
+![Relativity]({{ '/relativity.jpg' | relative_url }})
+
 Navigate to [Lesson 1](lessons/index.md)

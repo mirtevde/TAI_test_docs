@@ -9,8 +9,9 @@ nav_order: 1
 This is a test website. 
 Here you find the material for [AI and Arts&Humanities](ai_arts.md)
 
-Let's see if we can also add an image [Course banner]({{ '/relativity.jpg' | relative_url }}){: width="800" }
+Let's see if we can also add an [image]({{ '/relativity.jpg' | relative_url }}){: width="800" }
 
+Worksheet: [Download (PDF)](/lessons//worksheet-1.pdf)
 
 ![Relativity]({{ '/relativity.jpg' | relative_url }})
 

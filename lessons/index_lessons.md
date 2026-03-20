@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Lesson 1: Introduction
+title: Lesson 1 Introduction
 nav_order : 20
 has_children: true
 ---
